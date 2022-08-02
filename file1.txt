@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "Hello World"
+echo "hello"
+echo "now you see me"
+test="alta"
+echo "ayo belajar di" $test
